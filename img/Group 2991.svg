@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_2991" data-name="Group 2991" transform="translate(-362 -456)">
+    <rect id="Rectangle_287" data-name="Rectangle 287" width="24" height="24" transform="translate(362 456)" fill="none"/>
+    <g id="immunity_2_" data-name="immunity (2)" transform="translate(334.495 458)">
+      <path id="Path_1384" data-name="Path 1384" d="M154.548,129a4.421,4.421,0,1,0,4.421,4.421A4.426,4.426,0,0,0,154.548,129Zm2.752,5.046h-2.128v2.128h-1.249v-2.128H151.8V132.8h2.128v-2.128h1.249V132.8H157.3Z" transform="translate(-115.043 -123.777)" fill="#1f5f61"/>
+      <path id="Path_1385" data-name="Path 1385" d="M47.93,3.312A2.706,2.706,0,0,1,45.367.607L45.36,0H33.65l-.007.607A2.706,2.706,0,0,1,31.08,3.312l-.575.023V8.283A12.646,12.646,0,0,0,36.39,19.107L39.5,21l3.115-1.893A12.646,12.646,0,0,0,48.5,8.283V3.335ZM39.5,15.214a5.512,5.512,0,0,1-5.428-5.579,5.43,5.43,0,1,1,10.857,0A5.512,5.512,0,0,1,39.5,15.214Z" transform="translate(0)" fill="#1f5f61"/>
+    </g>
+  </g>
+</svg>
